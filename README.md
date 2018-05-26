@@ -1,6 +1,6 @@
 # Identify Renault Cars
 
-This small project is an example of how to benefit from transfer learning using pre-trained convolutional neurals net in Keras.
+This small project is an example of how to benefit from transfer learning using pre-trained convolutional neural nets in Keras.
 
 The data is a various set of ~9400 car images (collected from google image using a web scrapping code) where 50% of them represent Renault cars.
 
