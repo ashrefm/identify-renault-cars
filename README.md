@@ -25,8 +25,8 @@ Open a terminal and execute the following command: $ python google_image_scrappe
 ### Modeling
 
 We use the pre-trained VGG-19 model to extract features from images (output of the first fully connected layer).  
-Based on this features, we train a deep neural network with 4 densely connected layers where we gradually decrease the number of learnable parameters.  
-Note: The training is accelerated using a 2014 CUDA GPU (Nvida GTX 880M).
+Based on these features, we train a deep neural network with 4 densely connected layers where we gradually decrease the number of learnable parameters.  
+Note: The training was accelerated using a 2014 CUDA GPU (Nvida GTX 880M).
 
 
 ### Scoring
